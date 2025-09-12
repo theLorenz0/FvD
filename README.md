@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina 
-  <img src="readme-images/screen-pagina1.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screen-pagina1.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Menu overzicht 
-  <img src="readme-images/screen-pagina2.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screen-pagina2.pgn" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -58,6 +58,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  **Screenreader**: De pagina is opgedeeld in header, main en footer, maar er mist een *skip link* om snel naar de inhoud te gaan. Sommige links zoals “Learn more” zijn niet duidelijk genoeg voor screenreaders.
+  **Afbeeldingen**: Alle foto’s hadden een duidelijke en passende alt-tekst, waardoor de inhoud ook voor screenreaders begrijpelijk is.
+   **Koppen**: De koppen waren logisch opgebouwd en goed te volgen.
+  **Contrast**: Het groen-wit contrast is goed leesbaar. Bij sommige lichtere kleuren kan het contrast te laag zijn.
+  **Toetsenbord**: Navigeren met Tab werkt, maar de focus is niet altijd duidelijk zichtbaar.
+
+  **Conclusie:** Over het algemeen scoorde de website goed op de meeste toegankelijkheidspunten.
 </details>
 
 
@@ -68,14 +75,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschets-pagina1.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown-dynamisch1.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/breakdown-dynamisch2.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
+  ### de hele pagina: 
+  <img src="readme-images/breakdownschets-pagina1.jpg" width="375px" alt="breakdown van de hele pagina">
 </details>
 
 
@@ -89,6 +98,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben begonnen met de HTML van de eerste website.  
+  Ik zorg er eerst voor dat alle HTML-codes er zo goed mogelijk in staan, zodat ik daarna makkelijker verder kan met de CSS.  
+  Verder merk ik dat ik grid nog lastig vind en daar moet ik nog even goed naar kijken.  
 
 
   ### Agenda voor meeting
