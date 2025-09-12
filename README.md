@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Menu overzicht 
-  <img src="readme-images/screen-pagina2.pgn" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screen-pagina2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
