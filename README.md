@@ -58,7 +58,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  - **Screenreader**: De pagina is opgedeeld in header, main en footer, maar er mist een *skip link* om snel naar de inhoud te gaan. Sommige links zoals “Learn more” zijn niet duidelijk genoeg voor screenreaders.
   -  **Afbeeldingen**: Alle foto’s hadden een duidelijke en passende alt-tekst, waardoor de inhoud ook voor screenreaders begrijpelijk is.
   - **Koppen**: De koppen waren logisch opgebouwd en goed te volgen.
   - **Contrast**: Het groen-wit contrast is goed leesbaar. Bij sommige lichtere kleuren kan het contrast te laag zijn.
