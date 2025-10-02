@@ -344,10 +344,10 @@ article > div {
 }
 @media (min-width: 800px) {
   article:nth-of-type(even) img {
-    order: 2; /* foto naar rechts */
+    order: 2; 
   }
   article:nth-of-type(even) div {
-    order: 1; /* tekst naar links */
+    order: 1; 
   }
 }
 
