@@ -159,6 +159,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   Ik heb eigenlijk opnieuw de toegankelijkheidstest op de officiele website van starbucks gedaan omdat ik de eerste versie kwijt was geraakt. Ik heb deze keer wel wat beter gekeken en zag dat sommige dingen ook niet van toepassing waren. Over het algemeen was de website wel redelijk goed op een paar punten na. Deze heb ik in mijn eigen versie wel verbeterd. Zo heb ik de H1 van de homepagina duidelijker gemaakt, want die gaf op de officiele website niet duidelijk aan op wat voor pagina je was. Verder heb ik elke link een onderlijn gegeven zodra je eroverheen hovert. Ook heb ik de focus via tab duidelijker gemaakt en een skip link toegepast. 
 
+  <img src="readme-images/wcag1.png" width="375px" alt="test pagina 1">
+  <img src="readme-images/wcag2.png" width="375px" alt="test pagina 2">
+  <img src="readme-images/wcag3.png" width="375px" alt="test pagina 3">
+  <img src="readme-images/wcag4.png" width="375px" alt="test pagina 4">
+  <img src="readme-images/wcag5.png" width="375px" alt="test pagina 5">
 </details>
 
 
@@ -198,36 +203,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/fullscreen1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/fullscreen.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Wat goed ging was het werken met de articles, vooral het selecteren van elk artikel zonder daar classes aan toe te voegen.  
+  Ik heb geleerd hoe je met nth-of-type en andere selectors kunt werken.  
+  Daarnaast heb ik geleerd om variabelen kleuren toe te passen, om grid goed te gebruiken en hoe je met media queries je website responsive kunt maken.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/screenshot1.pgn" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+ Wat ik nog lastig vind is het maken van het hamburgermenu.  
+Ik heb dit uiteindelijk werkend gekregen met behulp van de uitwerking uit de Codepen opdracht, maar ik vond het wel moeilijk om te begrijpen.  
+Daarnaast vond ik het ook lastig om het formulier netjes vorm te geven en hetzelfde geldt voor het gebruik van de details-elementen.  
+Ik wil me hier in de toekomst nog verder in verbeteren, omdat ik dit wel coole codes vind om mee te werken.
+  <img src="readme-images/screenshot2.png" width="375px" alt="bummer">
+  <img src="readme-images/screenshot3.png" width="375px" alt="bummer">
+  <img src="readme-images/screenshot4.png" width="375px" alt="bummer">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
-
-
-
-
 
 ## Bronnenlijst
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
-
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-,
   1. (https://codepen.io/shooft/pen/ByoVYeJ?editors=1100) 9. onder protest label codes.
   2. (https://codepen.io/shooft/pen/NPGXJGq) hamburgermenu voorbeeldcodes
-  3. ...
+  3. (https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details) details code.
 
 </details>
