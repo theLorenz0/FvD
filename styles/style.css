@@ -167,7 +167,6 @@ nav ul:last-of-type li:last-of-type a {
   color: var(--color-background);
 }
 @media (min-width: 59em) {
-  /* knoppen verbergen op desktop */
   header > button,
   nav button {
   display: none;
@@ -204,7 +203,7 @@ nav ul:nth-of-type(2) li:nth-of-type(3) {
 }
 
 nav ul:last-of-type li:last-of-type a {
-  color: white;
+  color: var(--color-background);
 }
 /* (https://codepen.io/shooft/pen/NPGXJGq) */
 
@@ -401,16 +400,15 @@ footer summary:focus-visible {
 }
 
 
-
-/* het pijltje (chevron) */
+/* het pijltje */
 footer summary::after {
   content: "";
   width: 18px; height: 18px;
   flex: 0 0 18px;
   transform: rotate(90deg);
   opacity: .7;
-  border-right: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
+  border-right: 2px solid var(--color-text);
+  border-bottom: 2px solid var(--color-text);
   transform-origin: 50% 55%;
   transition: rotate .2s ease;
   rotate: -45deg; 
@@ -419,6 +417,7 @@ footer summary::after {
 footer details[open] summary::after {
   rotate: 135deg;
 }
+
 
 
 footer ul {
@@ -519,6 +518,7 @@ input[type="password"] {
   grid-area: 1/1;
   width: 100%;
   font:inherit;
+  background-color: var(--color-background);
   padding: .5em;
   border-radius: .3em;
   border: solid .1em black;
@@ -602,8 +602,8 @@ form summary::after {
   width: 16px; 
   height: 16px;
   margin-left: auto;                
-  border-right: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
+  border-right: 2px solid var(--color-background5);
+  border-bottom: 2px solid var(--color-background5);
   transform-origin: 50% 55%;
   rotate: 45deg;                   
   transition: rotate .2s ease;
@@ -621,7 +621,7 @@ form summary:focus-visible{
 
 
 body > a[href="#main"] {
-position: absolute; 
+  position: absolute; 
   top: -40px;
   background: var(--color-background5);
   color: var(--color-background);

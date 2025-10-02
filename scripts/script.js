@@ -14,12 +14,7 @@ function openMenu() {
   deNav.classList.add("toonMenu");
 }
 
-
-
-
-/************************************/
 /* menu sluiten met de sluit button */
-/************************************/
 
 /* JOUW CODE HIER - stap 5 */
 
@@ -35,12 +30,7 @@ function sluitMenu() {
   deNav.classList.remove("toonMenu");
 }
 
-
-
-
-/**********************************/
-/* bonus: menu sluiten met escape */
-/**********************************/
+/* menu sluiten met escape toets */
 window.onkeydown = handleKeydown;
 
 function handleKeydown(event) {
