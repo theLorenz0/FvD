@@ -212,7 +212,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik heb geleerd hoe je met nth-of-type en andere selectors kunt werken.  
   Daarnaast heb ik geleerd om variabelen kleuren toe te passen, om grid goed te gebruiken en hoe je met media queries je website responsive kunt maken.
 
-  <img src="readme-images/screenshot1.pgn" width="375px" alt="top">
+  <img src="readme-images/screenshot1.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
