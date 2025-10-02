@@ -230,8 +230,9 @@ Ik wil me hier in de toekomst nog verder in verbeteren, omdat ik dit wel coole c
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
-  1. [bron 1](https://codepen.io/shooft/pen/ByoVYeJ?editors=1100) Voor het maken van de labels (9. onder protest label codes.)
-  2. [bron 2](https://codepen.io/shooft/pen/NPGXJGq) Voor het maken van de hamburgermenu (hamburgermenu voorbeeldcodes)
-  3. [bron 3](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details) Voor het maken van de detailscodes (details code.)
+
+1. [bron 1](https://codepen.io/shooft/pen/ByoVYeJ?editors=1100) Voor het maken van de labels (onder protest codes).  
+2. [bron 2](https://codepen.io/shooft/pen/NPGXJGq) Voor het maken van het hamburgermenu (voorbeeldcodes).  
+3. [bron 3](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details) Voor het maken van de details-code.  
 
 </details>
