@@ -96,10 +96,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
   Ik ben begonnen met de HTML van de eerste website.  
-  Ik zorg er eerst voor dat alle HTML-codes er zo goed mogelijk in staan, zodat ik daarna makkelijker verder kan met de CSS.  
-  Verder merk ik dat ik grid nog lastig vind en daar moet ik nog even goed naar kijken.  
+  Ik zorg er eerst voor dat alle HTML-codes er zo goed mogelijk in staan, zodat ik daarna makkelijker verder kan met de CSS.   
 
 
   ### Agenda voor meeting
@@ -109,17 +107,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ...            | ...                | ...          | ...              | 
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1: Breakoutschets aanpassen. Sections en article beter identificeren.
-  - punt 2
-  - nog een punt
-  - ...
-
+  Ik had de meeting met de studentenassistenten. De meeting ging vrij goed en er werd gekeken hoe ver ik was met mijn werk.  
+  Er werd uitgebreid naar mijn breakoutschets gekeken en ik kreeg tips hoe ik bepaalde onderdelen kon coderen.  
+  Ook kreeg ik het advies om de breakoutschets nog verder uit te werken en meer onderdelen duidelijker te identificeren met de juiste HTML en CSS tags. Daarnaast werd er naar mijn HTML gekeken en volgens de studentenassistenten was dit een goed begin.
 </details>
 
 
@@ -132,7 +126,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb de lessen gevolgd en de opdrachten die ik nodig heb voor mijn website gedaan. Verder ben ik nog niet zo ver met mijn website. Ik heb een beginnetje gemaakt met mijn CSS maar moet nog goed kijken naar hoe ik de lastige dingen zoals het hamburgermenu moet coderen. 
 
 
   ### Agenda voor meeting
@@ -146,13 +140,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+  Deze keer had ik de meeting met de docent. Er werd niet echt naar mijn werk gekeken, maar ik kon wel met mijn vragen komen.  
+  Het voelde meer als een klein lesje, waarbij de docent goede en handige uitleg gaf.  
+  Ook de vragen van andere studenten in de groep waren nuttig en de uitleg daarbij kon ik goed gebruiken.  
+  Dus over het algemeen ging de meeting op zich wel vrij goed.
 </details>
 
 
@@ -166,6 +157,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Ik heb eigenlijk opnieuw de toegankelijkheidstest op de officiele website van starbucks gedaan omdat ik de eerste versie kwijt was geraakt. Ik heb deze keer wel wat beter gekeken en zag dat sommige dingen ook niet van toepassing waren. Over het algemeen was de website wel redelijk goed op een paar punten na. Deze heb ik in mijn eigen versie wel verbeterd. Zo heb ik de H1 van de homepagina duidelijker gemaakt, want die gaf op de officiele website niet duidelijk aan op wat voor pagina je was. Verder heb ik elke link een onderlijn gegeven zodra je eroverheen hovert. Ook heb ik de focus via tab duidelijker gemaakt en een skip link toegepast. 
 
 </details>
 
@@ -179,7 +171,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had een beginnetje maar mis eigenlijk wel nog redelijk wat codes.
 
 
   ### Agenda voor meeting
@@ -193,13 +185,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  Ik had deze keer weer een gesprek met de studentenassistenten. Ze waren vrij positief, ook al was ik nog niet zo ver met mijn werk. Ik kreeg tips over hoe ik bepaalde dingen kon coderen en ze stuurden ook handige links die mij daarbij konden helpen. Daarnaast gaven ze aan dat mijn README verslag nog wat meer gevuld moest worden, dus dat heb ik nu ook gedaan. Over het algemeen was het een goede meeting.
 </details>
 
 
@@ -239,9 +225,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
+,
+  1. (https://codepen.io/shooft/pen/ByoVYeJ?editors=1100) 9. onder protest label codes.
+  2. (https://codepen.io/shooft/pen/NPGXJGq) hamburgermenu voorbeeldcodes
   3. ...
 
 </details>
